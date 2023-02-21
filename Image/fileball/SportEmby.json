@@ -3,6 +3,15 @@
  [
    {"name":"SportEmby_icon1",
     "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/SportEmby_icon1%20108x108.png"
+   },
+   {"name":"SportEmby_icon2",
+    "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/SportEmby_icon2%20108x108.png"
+   },
+   {"name":"SportEmby_icon3",
+    "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/SportEmby_icon3%20108x108.png"
+   },
+   {"name":"SportEmby_icon4",
+    "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/SportEmby_icon4%20108x108.png"
    }
  ]
 }
