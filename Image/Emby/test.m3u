@@ -5,3 +5,6 @@ http://45.158.9.20:65535/
 
 #EXTINF:-1,V 4K
 http://45.158.9.20:65534/
+
+#EXTINF:-1,LaLiga TV (Viaplay)
+http://45.158.9.20:65533/
