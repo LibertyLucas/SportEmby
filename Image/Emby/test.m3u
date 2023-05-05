@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Foot
+#EXTINF:-1,Canal+ EVENEMENT UHD
 http://45.158.9.20:65535/
 
 #EXTINF:-1,V 4K
@@ -8,3 +8,7 @@ http://45.158.9.20:65534/
 
 #EXTINF:-1,LaLiga TV (Viaplay)
 http://45.158.9.20:65533/
+
+#EXTINF:-1,Canal+ UHD
+http://45.158.9.20:65532/
+
