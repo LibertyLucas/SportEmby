@@ -15,6 +15,20 @@
    },
   {"name":"porn_大icon_头像浅",
     "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/%E5%A4%A7icon_%E5%A4%B4%E5%83%8F%E6%B5%85.png"
-  }
+  }{"name":"porn_大icon_头像深",
+    "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/%E5%A4%A7icon_%E5%A4%B4%E5%83%8F%E6%B7%B1.png"
+   },
+  {"name":"porn_大icon浅",
+    "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/%E5%A4%A7icon%E6%B5%85.png"
+   },
+  {"name":"porn_大icon深",
+    "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/%E5%A4%A7icon%E6%B7%B1.png"
+   },
+  {"name":"porn_小icon浅",
+    "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/%E5%B0%8Ficon%E6%B5%85.png"
+   },
+  {"name":"porn_小icon深",
+    "url":"https://raw.githubusercontent.com/LibertyLucas/SportEmby/main/Image/fileball/%E5%B0%8Ficon%E6%B7%B1.png"
+   }
  ]
 }
